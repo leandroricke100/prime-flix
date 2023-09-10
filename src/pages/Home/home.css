@@ -45,3 +45,11 @@
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
 }
+
+.lista-filmes a:hover {
+  opacity: 0.8;
+}
+
+.lista-filmes a:active {
+  opacity: 0.5;
+}
